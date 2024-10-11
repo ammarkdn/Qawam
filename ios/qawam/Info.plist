@@ -6,6 +6,10 @@
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
 	<string>qawam</string>
+		<key>NSHealthShareUsageDescription</key>
+	<string>This app requires access to health data.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>This app requires permission to update health data.</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
