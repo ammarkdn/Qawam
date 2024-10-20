@@ -8549,6 +8549,7 @@ __metadata:
     react: 18.3.1
     react-native: 0.75.4
     react-native-chart-kit: ^6.12.0
+    react-native-eject: ^0.2.0
     react-native-google-fit: ^0.21.0
     react-native-health: ^1.18.0
     react-native-health-connect: ^3.2.1
@@ -8626,6 +8627,13 @@ __metadata:
     react-native: ">= 0.50.0"
     react-native-svg: "> 6.4.1"
   checksum: 04c225965c0ce3c71205a62bc92743e9188458d8f95c12481e43a2e53c425bd5db8274e57ab93c1cb95ffd3fb54950ca92c3d33e518a3505d7697c247b3b7e15
+  languageName: node
+  linkType: hard
+
+"react-native-eject@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "react-native-eject@npm:0.2.0"
+  checksum: 782e824bcda27dff1ff09f790b14a7072ae994f2c6591491ac5faeae01d866340ee01f03664d0fe0458ebab904b9a202cc23c447769df324540ffc76ef43455d
   languageName: node
   linkType: hard
 
